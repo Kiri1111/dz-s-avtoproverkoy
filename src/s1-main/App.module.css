@@ -1,11 +1,27 @@
 .App {
+
     --header_height: 60px;
 }
 
 .hw {
-
+    border-bottom: 1px solid rgba(128, 128, 128, 0.37);
+    padding-left: 70px;
+    padding-top: 30px;
+    padding-bottom: 10px;
+    height: 336px;
 }
 
 .hwTitle {
+    padding-top: 15px;
+    padding-bottom: 5px;
+    padding-left: 70px;
+    font-weight: bold;
+    border-bottom: 1px solid rgba(128, 128, 128, 0.4);
 
+}
+
+.table {
+    position: absolute;
+    top: 500px;
+    left: 50px;
 }

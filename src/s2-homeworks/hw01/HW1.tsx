@@ -37,22 +37,22 @@ export const message0: MessageType = {
     id: 0,
     user: {
         avatar: avatar, // можно менять
-        name: 'Some Name',  // можно менять
+        name: 'Kirill',  // можно менять
     },
     message: {
-        text: 'some textsome textsome textsome textsome textsome textsome text', // можно менять
-        time: '22:00', // можно менять
+        text: 'Hello, how are you, how old are you?????', // можно менять
+        time: '9:00', // можно менять
     },
 }
 export const friendMessage0: MessageType = {
     id: 100,
     user: {
         avatar: avatar, // можно менять
-        name: 'Friend Name', // можно менять
+        name: 'Phill', // можно менять
     },
     message: {
-        text: 'зеркальное сообщение для тренировки css', // можно менять
-        time: '22:00', // можно менять
+        text: 'Hello, i am fine, thank you and you? i am 30)))', // можно менять
+        time: '9:01', // можно менять
     },
 }
 
@@ -64,7 +64,7 @@ const HW1 = () => {
                 {/*проверка отображения (не менять)*/}
                 <div>
                     <Message message={message0}/>
-                    <FriendMessage id={friendMessage0.id} user={friendMessage0.user} message={friendMessage0.message}/>
+                    <FriendMessage friendMessage0={friendMessage0}/>
                 </div>
 
                 {/*для автоматической проверки дз (не менять)*/}

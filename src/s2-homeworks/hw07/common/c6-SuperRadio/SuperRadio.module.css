@@ -1,7 +1,9 @@
 .radio {
+    display: flex;
 }
 
 .radio::before {
+
 }
 
 
@@ -9,7 +11,18 @@
 }
 
 .label {
+    background-color: #ffffff;
+    display: flex;;
+    font-size: 16px;
+    padding-left: 13px;
 }
 
 .options {
+
+
+}
+
+.span {
+    margin-left: 13px;
+    background-color: #ffffff
 }

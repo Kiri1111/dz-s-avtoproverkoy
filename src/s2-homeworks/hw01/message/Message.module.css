@@ -1,4 +1,7 @@
 .message {
+    /*position: absolute;*/
+    /*left: 70px;*/
+    /*top: 287px;*/
 
 }
 
@@ -7,11 +10,22 @@
 }
 
 .imageAndText img {
+    width: 48px;
+    position: relative;
+    top: 50px;
+    left: -50px
+
 
 }
 
 .text {
-
+    background: #F5F7FB;
+    /*position: absolute;*/
+    /*left: 65px;*/
+    /*top: 0px;*/
+    width: 414px;
+    height: 60px;
+    border-radius: 10px;
 }
 
 .text:after {
@@ -19,13 +33,30 @@
 }
 
 .name {
-
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: Arial;
+    font-style: normal;
+    position: absolute;
+    left: 80px;
+    top: 185px;
 }
 
 .messageText {
-
+    position: absolute;
+    left: 80px;
+    top: 220px;
+    font-family: 'Montserrat', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
 }
 
 .time {
+    position: relative;
+    left: -42px;
+    top: -15px;
 
 }

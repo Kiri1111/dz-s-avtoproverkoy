@@ -1,23 +1,42 @@
 .item {
+    /*background-color: #8d0000;*/
+
 }
 
 .item:last-of-type {
+
 }
 
 .users {
+    width: 570px;
+    /*background-color: #0066cc;*/
 }
 
 .buttonsContainer {
+    padding-left: 100px;
+    padding-bottom: 10px;
 }
 
 .container {
+
+    width: 800px;
 }
 
 .thead {
+    font-weight: bold;
+    background-color: #E5E5E5;
+
 }
 
 .nameCol {
+    border-bottom: 1px solid #ddd;
+    font-size: 14px;
+    padding: 8px;
 }
 
 .ageCol {
+    padding-left: 175px;
+    font-weight: bold;
+    font-size: 14px;
+    border-bottom: 1px solid #ddd;
 }

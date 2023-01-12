@@ -2,6 +2,9 @@
 }
 
 .responseContainer {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
 }
 
 .imageContainer {
@@ -10,13 +13,16 @@
 .image {
 }
 
-.textContainer{
+.textContainer {
 }
 
 .code {
+    font-size: 30px;
 }
 
 .text {
 }
+
 .info {
+    width: 500px;
 }
