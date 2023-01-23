@@ -8,14 +8,24 @@
 
 .techHeader {
     width: 50vw;
+    background: #ddd;
+    font-weight: bold;
+    padding: 7px;
+
 }
 
 .developerHeader {
+    background: #ddd;
+    font-weight: bold;
+    padding: 7px;
 
 }
 
 .row {
     display: flex;
+    padding: 7px;
+    border-bottom: 1px solid #dddddd;
+    width: 70vw;
 }
 
 .rowHeader {
@@ -24,4 +34,9 @@
 
 .loading {
 
+}
+
+.iconSort {
+    width: 25px;
+    padding-left: 7px;
 }
