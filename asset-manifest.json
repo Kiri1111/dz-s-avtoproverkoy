@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/dz-s-avtoproverkoy/static/css/main.72101f87.css",
+    "main.css": "/dz-s-avtoproverkoy/static/css/main.126cd3f8.css",
     "main.js": "/dz-s-avtoproverkoy/static/js/main.d18936f7.js",
     "static/js/787.66cb4309.chunk.js": "/dz-s-avtoproverkoy/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/dz-s-avtoproverkoy/static/media/avatar.d947cb9d0d13765666b6.png",
@@ -15,12 +15,12 @@
     "index.html": "/dz-s-avtoproverkoy/index.html",
     "static/media/loader.svg": "/dz-s-avtoproverkoy/static/media/loader.1ac15b3ebbab9b38a8209c03281bd030.svg",
     "static/media/burger.svg": "/dz-s-avtoproverkoy/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.72101f87.css.map": "/dz-s-avtoproverkoy/static/css/main.72101f87.css.map",
+    "main.126cd3f8.css.map": "/dz-s-avtoproverkoy/static/css/main.126cd3f8.css.map",
     "main.d18936f7.js.map": "/dz-s-avtoproverkoy/static/js/main.d18936f7.js.map",
     "787.66cb4309.chunk.js.map": "/dz-s-avtoproverkoy/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.72101f87.css",
+    "static/css/main.126cd3f8.css",
     "static/js/main.d18936f7.js"
   ]
 }
